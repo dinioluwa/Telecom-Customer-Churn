@@ -2,9 +2,9 @@
 
 ##  Project Overview
 This project analyzes customer churn behavior for a telecom company 
-using the Kaggle Telco Customer Churn dataset. The goal is to identify 
+using the Saiket systems Telco Customer Churn dataset. The goal is to identify 
 key drivers of churn and build a predictive model that can flag 
-at-risk customers before they leave — enabling proactive retention 
+at-risk customers before they leave thereby enabling proactive retention 
 strategies.
 
 ---
